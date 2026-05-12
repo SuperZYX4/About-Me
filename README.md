@@ -84,8 +84,12 @@
 ## 📫 联系方式
 - 邮箱：2460926925@qq.com
 - 电话：15832899621（微信同号）
-- 🐙 <a href="https://github.com/SuperZYX4">SuperZYX4</a></i>
+- GitHub <a href="https://github.com/SuperZYX4">SuperZYX4</a></i>
 
 <p align="center">
-  <i>📧 2460926925@qq.com  ·  💬 微信同号 15832899621  ·  🐙 <a href="https://github.com/SuperZYX4">SuperZYX4</a></i>
+  <i>持续学习  ·  持续进步  ·  🐙 <a href="https://github.com/SuperZYX4">SuperZYX4</a></i>
+</p>
+
+<p align="center">
+  持续学习  ·  持续进步  ·  永远在路上
 </p>

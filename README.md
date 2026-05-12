@@ -86,10 +86,7 @@
 - 电话：15832899621（微信同号）
 - GitHub <a href="https://github.com/SuperZYX4">SuperZYX4</a></i>
 
-<p align="center">
-  <i>持续学习  ·  持续进步  ·  🐙 <a href="https://github.com/SuperZYX4">SuperZYX4</a></i>
-</p>
 
 <p align="center">
-  持续学习  ·  持续进步  ·  永远在路上
+  持续学习  ·  持续进步  ·  永远在路上！
 </p>

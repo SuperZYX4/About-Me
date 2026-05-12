@@ -61,65 +61,33 @@
 
 ## 📂 个人项目
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/SuperZYX4/Experiment-System-Knowledge-QA-Assistant">
-          <img src="https://img.shields.io/badge/工业换热教学-实验系统知识问答助手-2D9CD7?style=for-the-badge" />
-        </a>
-      </h3>
-      <p>基于 Streamlit + LangChain + Chroma + DashScope 的 RAG 智能问答平台，面向工业换热教学实验场景。</p>
-      <p><strong>功能</strong>：多格式文档上传、分类检索、引用来源展示、会话管理、知识管理后台</p>
-      <p><strong>亮点</strong>：结构化 Prompt 约束输出、SHA256 文档去重、幻觉率降至 5%、无依据明确提示</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square" />
-        <img src="https://img.shields.io/badge/DashScope-00C2FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG-2D9CD7?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/SuperZYX4/llm-news-push">
-          <img src="https://img.shields.io/badge/大模型新闻-热点推送系统-FF9A00?style=for-the-badge" />
-        </a>
-      </h3>
-      <p>基于 LangChain + LangGraph 的智能新闻推送系统，Agent 工作流自动搜索与分发热点新闻。</p>
-      <p><strong>功能</strong>：自动搜索与格式化、多节点 Agent 工作流、FastAPI HTTP 服务、定时调度</p>
-      <p><strong>亮点</strong>：LangGraph 状态图编排、完善的错误分类与恢复、支持单节点调试</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Agent-2D9CD7?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/SuperZYX4/travel-journal-map">
-          <img src="https://img.shields.io/badge/旅游手账-地图应用-339933?style=for-the-badge" />
-        </a>
-      </h3>
-      <p>基于 Taro + React + NestJS 的跨平台旅游手账小程序，微信/抖音/H5 多端部署。</p>
-      <p><strong>功能</strong>：地图标记与路线规划、旅行日志与照片管理、多端数据同步</p>
-      <p><strong>亮点</strong>：Taro 一套代码多端运行、Zustand 状态管理、Lucide 图标小程序适配</p>
-      <p>
-        <img src="https://img.shields.io/badge/Taro-61DAFB?logo=taro&logoColor=black&style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
-      </p>
-    </td>
-    <td align="center" valign="middle">
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api?username=SuperZYX4&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide=stars,commits" />
-    </td>
-  </tr>
-</table>
+### <a href="https://github.com/SuperZYX4/Experiment-System-Knowledge-QA-Assistant">工业换热教学实验系统知识问答助手</a>
+
+基于 Streamlit + LangChain + Chroma + DashScope 的 RAG 智能问答平台，面向工业换热教学实验场景。
+
+- **功能**：多格式文档上传、分类检索、引用来源展示、会话管理、知识管理后台
+- **亮点**：结构化 Prompt 约束输出、SHA256 文档去重、幻觉率降至 5%、无依据明确提示
+- **技术**：LangChain、Chroma、DashScope、Streamlit、RAG
+
+---
+
+### <a href="https://github.com/SuperZYX4/llm-news-push">大模型新闻热点推送系统</a>
+
+基于 LangChain + LangGraph 的智能新闻推送系统，Agent 工作流自动搜索与分发热点新闻。
+
+- **功能**：自动搜索与格式化、多节点 Agent 工作流、FastAPI HTTP 服务、定时调度
+- **亮点**：LangGraph 状态图编排、完善的错误分类与恢复、支持单节点调试
+- **技术**：LangGraph、FastAPI、PostgreSQL、Agent
+
+---
+
+### <a href="https://github.com/SuperZYX4/travel-journal-map">旅游手账地图应用</a>
+
+基于 Taro + React + NestJS 的跨平台旅游手账小程序，微信/抖音/H5 多端部署。
+
+- **功能**：地图标记与路线规划、旅行日志与照片管理、多端数据同步
+- **亮点**：Taro 一套代码多端运行、Zustand 状态管理、Lucide 图标小程序适配
+- **技术**：Taro、TypeScript、NestJS、Tailwind CSS
 
 ---
 

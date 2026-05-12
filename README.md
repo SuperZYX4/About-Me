@@ -1,6 +1,6 @@
 
 
-## 👨‍🎓 你好我是Andrew
+## 👋 你好我是Andrew
 
 | 学校 | 专业 | 备注 |
 |------|------|------|
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔬 研究方向
+## 👨‍🎓 研究方向
 
 大模型应用开发与工业智能，涵盖 **RAG 知识库构建、Prompt Engineering、Agent 架构设计、MCP/Skill 工具集成**等全链路。持续探索 LLM 在工业场景中的落地范式与可靠性保障。
 
@@ -80,6 +80,11 @@
 - **技术**：Taro、TypeScript、NestJS、Tailwind CSS
 
 ---
+
+## 📫 联系方式
+- 邮箱：2460926925@qq.com
+- 电话：15832899621（微信同号）
+- 🐙 <a href="https://github.com/SuperZYX4">SuperZYX4</a></i>
 
 <p align="center">
   <i>📧 2460926925@qq.com  ·  💬 微信同号 15832899621  ·  🐙 <a href="https://github.com/SuperZYX4">SuperZYX4</a></i>

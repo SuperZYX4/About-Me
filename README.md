@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2D9CD7&center=true&vCenter=true&width=600&lines=张烨曦+|+ZYX;大模型应用开发+·+工业智能" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/SuperZYX4"><img src="https://img.shields.io/badge/GitHub-SuperZYX4-181717?logo=github&style=flat-square" /></a>
-  <a href="mailto:2460926925@qq.com"><img src="https://img.shields.io/badge/邮箱-2460926925@qq.com-0078D4?logo=microsoft-outlook&style=flat-square" /></a>
-  <a href="https://github.com/SuperZYX4/About-Me"><img src="https://img.shields.io/badge/About-Me-2D9CD7?style=flat-square" /></a>
-</p>
-
----
 
 ## 👨‍🎓 你好我是Andrew
 
